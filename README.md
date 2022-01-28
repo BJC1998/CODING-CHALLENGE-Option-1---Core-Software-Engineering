@@ -7,7 +7,7 @@ step 3: output the files that contains longest common strand and the offset in e
 
 Screenshot:
 Final result
-![image]https://github.com/BJC1998/CODING-CHALLENGE-Option-1---Core-Software-Engineering/blob/master/final_result.PNG
+![image](https://github.com/BJC1998/CODING-CHALLENGE-Option-1---Core-Software-Engineering/blob/master/final_result.PNG)
 
 Process
-![image]https://github.com/BJC1998/CODING-CHALLENGE-Option-1---Core-Software-Engineering/blob/master/process.PNG
+![image](https://github.com/BJC1998/CODING-CHALLENGE-Option-1---Core-Software-Engineering/blob/master/process.PNG)
