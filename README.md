@@ -1,5 +1,9 @@
 # CODING-CHALLENGE-Option-1---Core-Software-Engineering
 Junchen Bao
+
+Language: Java
+code is stored in sec/longestStrand/solution.java
+
 The algorithm is DP
 step 1: get the longest common strand in each pair of 10 files. Other common strand must be shorter or equal to it. So this strand is the global longest common strand
 step 2: check wheter other files contain this longest common strand, if yes, store the filename and offset in result map
