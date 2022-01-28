@@ -6,3 +6,8 @@ step 2: check wheter other contains this longest common strand, if yes, store th
 step 3: output the files that contains longest common strand and the offset in each file
 
 Screenshot:
+Final result
+![image]https://github.com/BJC1998/CODING-CHALLENGE-Option-1---Core-Software-Engineering/blob/master/final_result.PNG
+
+Process
+![image]https://github.com/BJC1998/CODING-CHALLENGE-Option-1---Core-Software-Engineering/blob/master/process.PNG
